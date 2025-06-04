@@ -1,0 +1,4 @@
+Flask==2.1.2
+appbuilder-sdk==1.0.0
+requests==2.26.0
+appbuilder-sdk
